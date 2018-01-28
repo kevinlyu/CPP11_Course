@@ -3,6 +3,6 @@
 Modern c++ 11 standard implemented
 Remember to set 
 
-  std=c++11
+    -std=c++11
 
 in your compiling environment
