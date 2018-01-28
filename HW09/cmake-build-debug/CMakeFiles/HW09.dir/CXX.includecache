@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Homework/C++/HW09/TRADE_DATE.cpp
+TRADE_DATE.h
+D:/Homework/C++/HW09/TRADE_DATE.h
+algorithm
+-
+iostream
+-
+
+D:/Homework/C++/HW09/TRADE_DATE.h
+tuple
+-
+
+D:/Homework/C++/HW09/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+D:/Homework/C++/HW09/functional
+TRADE_DATE.h
+D:/Homework/C++/HW09/TRADE_DATE.h
+
